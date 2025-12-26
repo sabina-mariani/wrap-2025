@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mi Año — Wrap</title>
+  <meta name="description" content="Un wrap del año para compartir con amigos." />
+
+  <link rel="preconnect" href="https://unpkg.com" />
+  <link rel="stylesheet" href="styles.css" />
+
+  <!-- AOS (scroll animations) -->
+  <link rel="stylesheet" href="https://unpkg.com/aos@2.3.4/dist/aos.css" />
+
+  <!-- GLightbox (gallery lightbox) -->
+  <link rel="stylesheet" href="https://unpkg.com/glightbox/dist/css/glightbox.min.css" />
+</head>
+
+<body>
+  <header class="topbar">
+    <div class="container topbar__inner">
+      <a class="brand" href="#top" aria-label="Ir al inicio">Mi Año</a>
+
+      <nav class="nav">
+        <a href="#momentos">Momentos</a>
+        <a href="#timeline">Timeline</a>
+        <a href="#stats">Stats</a>
+        <a href="#videos">Videos</a>
+        <a href="#cierre">Cierre</a>
+      </nav>
+
+      <div class="topbar__actions">
+        <button id="themeToggle" class="btn btn--ghost" type="button" aria-label="Cambiar tema">
+          🌗
+        </button>
+        <button id="copyLink" class="btn btn--ghost" type="button">
+          Copiar link
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="top">
+    <!-- HERO -->
+    <section class="hero">
+      <div class="container hero__grid">
+        <div class="hero__text" data-aos="fade-up">
+          <p class="pill" id="heroPill">2025</p>
+          <h1 id="heroTitle">Mi 2025 en Wrap</h1>
+          <p class="lead" id="heroSubtitle">
+            Un resumen para compartir con amigos: momentos, mini-historias y un par de videos.
+          </p>
+
+          <div class="hero__cta">
+            <a class="btn btn--primary" href="#momentos">Empezar</a>
+            <button class="btn" id="shuffleMoment" type="button">Momento random</button>
+          </div>
+
+          <p class="hint">Tip: tocá cualquier foto para verla en grande.</p>
+        </div>
+
+        <div class="hero__media" data-aos="fade-up" data-aos-delay="100">
+          <img id="heroImage" class="hero__img" src="assets/photos/momento-01.jpg" alt="Foto principal del año" loading="eager" />
+        </div>
+      </div>
+    </section>
+
+    <!-- TOP MOMENTOS -->
+    <section class="section" id="momentos">
+      <div class="container">
+        <div class="section__head">
+          <h2>Top momentos</h2>
+          <p class="muted" id="momentsIntro">Los highlights que explican mi año.</p>
+        </div>
+
+        <div id="momentsGrid" class="grid"></div>
+      </div>
+    </section>
+
+    <!-- TIMELINE -->
+    <section class="section section--alt" id="timeline">
+      <div class="container">
+        <div class="section__head">
+          <h2>Timeline</h2>
+          <p class="muted">Mes a mes, lo más importante (click para expandir).</p>
+        </div>
+
+        <div id="timelineList" class="timeline"></div>
+      </div>
+    </section>
+
+    <!-- STATS -->
+    <section class="section" id="stats">
+      <div class="container">
+        <div class="section__head">
+          <h2>Stats</h2>
+          <p class="muted">Datos aproximados (pero con mucha verdad emocional).</p>
+        </div>
+
+        <div id="statsGrid" class="stats"></div>
+      </div>
+    </section>
+
+    <!-- VIDEOS -->
+    <section class="section section--alt" id="videos">
+      <div class="container">
+        <div class="section__head">
+          <h2>Videos</h2>
+          <p class="muted">Dos clips que valen mil fotos.</p>
+        </div>
+
+        <div id="videosGrid" class="videos"></div>
+      </div>
+    </section>
+
+    <!-- CIERRE -->
+    <section class="section" id="cierre">
+      <div class="container closing" data-aos="fade-up">
+        <h2 id="closingTitle">Cierre</h2>
+        <p id="closingText" class="closing__text">
+          Gracias por estar. Si llegaste hasta acá: te merecés un abrazo y una birra.
+        </p>
+
+        <div class="closing__actions">
+          <button class="btn btn--primary" id="copyLink2" type="button">Copiar link</button>
+          <a class="btn" href="#top">Volver arriba</a>
+        </div>
+
+        <p class="muted small">Hecho con ❤️ y un poco de JavaScript.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <span class="muted small">Wrap estático — listo para GitHub Pages.</span>
+    </div>
+  </footer>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" aria-atomic="true"></div>
+
+  <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+  <script src="https://unpkg.com/glightbox/dist/js/glightbox.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

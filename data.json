@@ -1,0 +1,64 @@
+{
+  "yearLabel": "2025",
+  "hero": {
+    "title": "Mi 2025 en Wrap",
+    "subtitle": "Un resumen para compartir con amigos: momentos, mini-historias y un par de videos.",
+    "image": "assets/photos/momento-01.jpg",
+    "imageAlt": "Foto principal del año"
+  },
+  "momentsIntro": "Los highlights que explican mi año.",
+  "moments": [
+    {
+      "rank": 1,
+      "title": "El viaje que me reseteó el cerebro",
+      "text": "3 días que parecieron 3 semanas. Volví distinto.",
+      "image": "assets/photos/momento-01.jpg",
+      "alt": "Foto del viaje",
+      "tags": ["viaje", "amigos"]
+    },
+    {
+      "rank": 2,
+      "title": "Noche épica",
+      "text": "Risas, música y anécdotas que no se pueden escribir acá 😅",
+      "image": "assets/photos/momento-01.jpg",
+      "alt": "Foto de la noche",
+      "tags": ["fiesta", "core memory"]
+    },
+    {
+      "rank": 3,
+      "title": "Un logro personal",
+      "text": "Me costó, pero salió. Y se festeja.",
+      "image": "assets/photos/momento-01.jpg",
+      "alt": "Foto del logro",
+      "tags": ["work", "win"]
+    }
+  ],
+  "timeline": [
+    { "month": "Enero", "bullets": ["Arranqué el año con X", "Primer plan con amigos"] },
+    { "month": "Marzo", "bullets": ["Proyecto intenso", "Fin de semana inolvidable"] },
+    { "month": "Julio", "bullets": ["Viaje / escapada", "Nueva rutina"] },
+    { "month": "Noviembre", "bullets": ["Cierre fuerte", "Brindis con gente querida"] }
+  ],
+  "stats": [
+    { "label": "Asados", "value": 12, "suffix": "" },
+    { "label": "Viajes", "value": 4, "suffix": "" },
+    { "label": "Recuerdos top", "value": 27, "suffix": "" },
+    { "label": "Cafés", "value": 180, "suffix": "" }
+  ],
+  "videos": [
+    {
+      "src": "assets/videos/video-01.mp4",
+      "poster": "assets/photos/video-01-poster.jpg",
+      "caption": "Este día fue un antes y un después."
+    },
+    {
+      "src": "assets/videos/video-02.mp4",
+      "poster": "assets/photos/video-02-poster.jpg",
+      "caption": "Un momento simple, pero perfecto."
+    }
+  ],
+  "closing": {
+    "title": "Cierre",
+    "text": "Gracias por estar. Si llegaste hasta acá: te merecés un abrazo y una birra."
+  }
+}
