@@ -38,32 +38,32 @@
       ]
     },
     {
-      "title": "Top Lugares",
-      "intro": "Postales que me marcaron durante el año.",
+      "title": "La naturaleza y yo",
+      "intro": "Haciendo las pases con la Pachamama",
       "items": [
         {
           "rank": 1,
-          "title": "Café escondido",
-          "text": "Mi spot fijo de tardes largas y lluvia suave.",
-          "image": "assets/photos/momentos-2-1.jpg",
+          "title": "La naturaleza está sanando",
+          "text": "Nos aventuramos a un viaje por el Riachuelo",
+          "image": "assets/photos/viajes1.jpg",
           "alt": "Foto del café",
-          "tags": ["café", "pausa"]
+          "tags": ["agua sucia", "no había freeshop"]
         },
         {
           "rank": 2,
-          "title": "Terraza al atardecer",
-          "text": "El mejor golden hour con vista abierta.",
-          "image": "assets/photos/momentos-2-2.jpg",
+          "title": "Hasta acá mi amor a la naturaleza",
+          "text": "foto desde un lugar seguro porque me dió vértigo la escalera \"natural\"",
+          "image": "assets/photos/viajes2.jpg",
           "alt": "Foto de la terraza al atardecer",
-          "tags": ["ciudad", "puesta de sol"]
+          "tags": ["trekking", "había vibóras"]
         },
         {
           "rank": 3,
-          "title": "Biblioteca silenciosa",
-          "text": "Días de foco total y playlists suaves.",
-          "image": "assets/photos/momentos-2-3.jpg",
+          "title": "El gran cañon de Brasil",
+          "text": "Trekking tranca con araucarias de fondo",
+          "image": "assets/photos/viajes3.jpg",
           "alt": "Foto de la biblioteca",
-          "tags": ["work", "calma"]
+          "tags": ["hacía frio", "el cañon tira humo"]
         }
       ]
     },
@@ -104,109 +104,109 @@
       "items": [
         {
           "rank": 1,
-          "title": "Medialunas calientes",
-          "text": "Clásico imbatible con café doble.",
-          "image": "assets/photos/momentos-4-1.jpg",
+          "title": "Merienda con vista al río",
+          "text": "Premio para un día movidito",
+          "image": "assets/photos/momentos 3-1.jpg",
           "alt": "Foto de medialunas",
-          "tags": ["dulce", "café"]
+          "tags": ["Colonia", "El ferry era un samba"]
         },
         {
           "rank": 2,
-          "title": "Tostado perfecto",
-          "text": "Pan crocante y queso que estira.",
-          "image": "assets/photos/momentos-4-2.jpg",
+          "title": "Merienda francesa",
+          "text": "Todo muy rico pero quería más",
+          "image": "assets/photos/momentos 3-2.jpg",
           "alt": "Foto del tostado",
-          "tags": ["salado", "clásico"]
+          "tags": ["Patisserie", "Todo rico"]
         },
         {
           "rank": 3,
-          "title": "Torta de cumple",
-          "text": "Un pedazo de felicidad con velitas.",
-          "image": "assets/photos/momentos-4-3.jpg",
+          "title": "El brunch de las violetas",
+          "text": "Comentario de vieja chota: Ya no es como antes",
+          "image": "assets/photos/momentos 3-3.jpg",
           "alt": "Foto de la torta",
-          "tags": ["cumple", "familia"]
+          "tags": ["Bar notable", "No era jamón. era paleta"]
         }
       ]
     },
     {
-      "title": "Top Naturaleza",
-      "intro": "Oxígeno puro y paisajes que recargan.",
+      "title": "Top flores",
+      "intro": "Momento de apreciar flores que no tuve que cuidar",
       "items": [
         {
           "rank": 1,
-          "title": "Sendero con vista",
-          "text": "Respirar hondo y mirar lejos.",
-          "image": "assets/photos/momentos-5-1.jpg",
+          "title": "Jardín botánico de Curitiba",
+          "text": "Donde le ponen Vivaldi a las flores",
+          "image": "assets/photos/flores1.jpg",
           "alt": "Foto del sendero",
           "tags": ["aire libre", "energía"]
         },
         {
           "rank": 2,
-          "title": "Picnic bajo árboles",
-          "text": "Mate, manta y charla tranquila.",
-          "image": "assets/photos/momentos-5-2.jpg",
+          "title": "Colonia de colores",
+          "text": "Lo que la lluvia nos dejo disfrutar",
+          "image": "assets/photos/flores2.jpg",
           "alt": "Foto del picnic",
           "tags": ["verde", "descanso"]
         },
         {
           "rank": 3,
-          "title": "Atardecer en la costa",
-          "text": "La mejor paleta de colores del año.",
-          "image": "assets/photos/momentos-5-3.jpg",
+          "title": "Parque de flores",
+          "text": "Recorrimos en carrito de golf 15ha de flores",
+          "image": "assets/photos/flores3.jpg",
           "alt": "Foto del atardecer",
-          "tags": ["mar", "cielo"]
+          "tags": ["No maneje", "naturaleza"]
         }
       ]
     },
     {
       "title": "Mi Buenos Aires Querido",
-      "intro": "Detalles porteños que me abrazaron.",
+      "intro": "Porque también en casa se puede turistear",
       "items": [
         {
           "rank": 1,
-          "title": "Callecitas con historia",
-          "text": "Caminar sin rumbo por barrios amados.",
-          "image": "assets/photos/momentos-6-1.jpg",
+          "title": "Palacio Barolo",
+          "text": "Divina vista de la ciudad",
+          "image": "assets/photos/BUE1.jpg",
           "alt": "Foto de calle porteña",
           "tags": ["barrio", "caminata"]
         },
         {
           "rank": 2,
-          "title": "Parque y feria",
-          "text": "Domingos de sol y compras pequeñas.",
-          "image": "assets/photos/momentos-6-2.jpg",
+          "title": "Casa de Cataluña",
+          "text": "Con la protección de San Jordi en el teatro Margarita Xirgu",
+          "image": "assets/photos/BUE2.jpg",
           "alt": "Foto del parque",
-          "tags": ["domingo", "feria"]
+          "tags": ["cultura", "El Jorge"]
         },
         {
           "rank": 3,
-          "title": "Noche en la avenida",
-          "text": "Luces, movimiento y esa vibra única.",
-          "image": "assets/photos/momentos-6-3.jpg",
+          "title": "Bar Roma",
+          "text": "Modesto homenaje a los bares notables y al sifón. Icónos de la identidad porteña",
+          "image": "assets/photos/BUE3.jpg",
           "alt": "Foto de noche en Buenos Aires",
-          "tags": ["ciudad", "noche"]
+          "tags": ["ciudad mágica ", "te perdonamos pelado"]
         }
       ]
     }
   ],
   "stats": [
-    { "label": "Asados", "value": 12, "suffix": "" },
-    { "label": "Viajes", "value": 4, "suffix": "" },
-    { "label": "Recuerdos top", "value": 27, "suffix": "" },
-    { "label": "Cafés", "value": 180, "suffix": "" }
+    { "label": "Meriendas", "value": 16, "suffix": "" },
+    { "label": "Restaurantes visitados", "value": 25, "suffix": "" },
+    { "label": "Accidentes en carritos", "value": 0, "suffix": "" },
+    { "label": "Visitas a museos/teatros", "value": 8, "suffix": "" }
   ],
   "videos": [
     {
-      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      "caption": "Este día fue un antes y un después."
+      "url": "https://www.youtube.com/shorts/AvXi3PzMPEU",
+      "caption": "Jardín botánico en Curitiba"
     },
     {
-      "url": "https://www.youtube.com/watch?v=ysz5S6PUM-U",
-      "caption": "Un momento simple, pero perfecto."
+      "url": "https://youtube.com/shorts/L2du-D2B5rU",
+      "caption": "Parque de carpinchos en Curitiba."
     }
   ],
   "closing": {
     "title": "Cierre",
-    "text": "Gracias por estar. Si llegaste hasta acá: te merecés un abrazo y una birra."
+    "text": "Gracias por estar. Si llegaste hasta acá: te merecés un abrazo y espero verte en el 2026"
   }
 }
