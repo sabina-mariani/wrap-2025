@@ -174,26 +174,26 @@
           "rank": 2,
           "title": "Casa de Cataluña",
           "text": "Con la protección de San Jordi en el teatro Margarita Xirgu",
-          "image": "assets/photos/momentos-6-2.jpg",
+          "image": "assets/photos/BUE2.jpg",
           "alt": "Foto del parque",
           "tags": ["cultura", "El Jorge"]
         },
         {
           "rank": 3,
           "title": "Bar Roma",
-          "text": "Modesto homenajes a los bares notables y al sifón. Icónos de la identidad porteña",
-          "image": "assets/photos/momentos-6-3.jpg",
+          "text": "Modesto homenaje a los bares notables y al sifón. Icónos de la identidad porteña",
+          "image": "assets/photos/BUE3.jpg",
           "alt": "Foto de noche en Buenos Aires",
-          "tags": ["ciudad", "noche"]
+          "tags": ["ciudad mágica ", "te perdonamos pelado"]
         }
       ]
     }
   ],
   "stats": [
-    { "label": "Asados", "value": 12, "suffix": "" },
-    { "label": "Viajes", "value": 4, "suffix": "" },
-    { "label": "Recuerdos top", "value": 27, "suffix": "" },
-    { "label": "Cafés", "value": 180, "suffix": "" }
+    { "label": "Meriendas", "value": 16, "suffix": "" },
+    { "label": "Restaurantes visitados", "value": 25, "suffix": "" },
+    { "label": "Accidentes en carritos", "value": 0, "suffix": "" },
+    { "label": "Visitas a museos/teatros", "value": 8, "suffix": "" }
   ],
   "videos": [
     {
@@ -207,6 +207,6 @@
   ],
   "closing": {
     "title": "Cierre",
-    "text": "Gracias por estar. Si llegaste hasta acá: te merecés un abrazo y una birra."
+    "text": "Gracias por estar. Si llegaste hasta acá: te merecés un abrazo y espero verte en el 2026"
   }
 }
